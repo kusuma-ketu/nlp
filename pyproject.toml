@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 transformers = "^4.27.3"
 sentencepiece = "^0.1.97"
+torch = "^2.0.0"
 
 
 [build-system]
